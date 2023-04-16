@@ -2,3 +2,10 @@ site_name: First Documentation
 
 theme:
   name: 'material'
+
+nav:
+  - My First Documentation: index.md
+  - tutorials.md
+  - how-to-guides.md
+  - reference.md
+  - explanation.md
