@@ -3,6 +3,9 @@ site_name: First Documentation
 theme:
   name: 'material'
 
+plugins:
+  - mkdocstrings
+
 nav:
   - My First Documentation: index.md
   - tutorials.md
